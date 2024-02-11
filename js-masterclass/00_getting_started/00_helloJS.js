@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 // first var: let, var (deprecated), const
 let greeting;
